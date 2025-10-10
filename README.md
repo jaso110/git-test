@@ -1,1 +1,1 @@
-* Author: Jan Sørensen
+# Author: Jan Sørensen
