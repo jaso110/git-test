@@ -1,3 +1,3 @@
 # git-test
 
-### Author: Jan Sørensen
+### Author: JanSoft, Jan Sørensen
