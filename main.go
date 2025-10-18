@@ -6,5 +6,5 @@ import (
 
 func main() {
   fmt.Println("Hello, World!")
-  fmt.Println("Author: Jan Sørensen")
+  fmt.Println("Author: JanSoft, Jan Sørensen")
 }
